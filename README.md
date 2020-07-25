@@ -6,7 +6,7 @@
 
 
 #### 2. Image Measurements 
-<img src = "https://github.com/ashish1sasmal/Measure-Distance-Between-Objects/blob/master/Results/result_test1.jpg" width=350>
+<img src = "https://github.com/ashish1sasmal/Measure-Distance-Between-Objects/blob/master/Results/result_test1.jpg" width=450>
 
 ### What's Inside ?
 <ol>
